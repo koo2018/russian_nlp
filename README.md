@@ -2,6 +2,7 @@
 
 #### Делить слова на слоги
 [https://github.com/Koziev/rusyllab](https://github.com/Koziev/rusyllab)
+https://github.com/TIXFeniks/rusian_phonemic
 
 
 #### Набор инструментов Tokenizing (word-level, sentence-level, with respect on whitespaces), POS-tagging, Pattern matching,Literals scoring
@@ -25,6 +26,8 @@ https://github.com/MikeButenko/Automated-morphological-analysis-Rus
 
 Стэминг
 https://github.com/nlpub/pymystem3
+
+https://github.com/mvasilkov/python-mystem
 
 Извлечение времени из текста
 https://github.com/orsinium/rutimeparser
@@ -56,6 +59,14 @@ https://github.com/MaksimMisin/numeralru
 
 Парсер официального списка регионов
 https://github.com/sshaman1101/kladr_parser
+
+Транслитерация 
+https://github.com/matan-bebop/translit
+
+Свагифакция
+https://github.com/orsinium/swag
+
+
 
 
 
