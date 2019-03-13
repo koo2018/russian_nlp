@@ -66,6 +66,10 @@ https://github.com/matan-bebop/translit
 Свагифакция
 https://github.com/orsinium/swag
 
+Облако слов
+https://habr.com/ru/post/442626/
+
+
 
 
 
