@@ -69,6 +69,8 @@ https://github.com/orsinium/swag
 Облако слов
 https://habr.com/ru/post/442626/
 
+Тональность текста
+https://habr.com/ru/post/436506/
 
 
 
