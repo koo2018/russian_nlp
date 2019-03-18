@@ -72,6 +72,9 @@ https://habr.com/ru/post/442626/
 Тональность текста
 https://habr.com/ru/post/436506/
 
+Визаулизация текстовой статистики
+https://kanoki.org/2019/03/17/text-data-visualization-in-python/
+
 
 
 
